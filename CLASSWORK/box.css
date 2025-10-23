@@ -1,0 +1,21 @@
+.box{
+    border: 5px solid darkslategray;
+    padding: 150px;
+    margin: 20px;
+    background-color: violet;
+
+}
+.box1{
+    border: 5px solid darkslategray;
+    padding: 100px;
+    margin: 20px;
+    background-color: lightblue;
+
+}
+.box2{
+    border: 5px solid darkslategray;
+    padding: 100px;
+    margin: 100px;
+    background-color: lightgreen;
+
+}
