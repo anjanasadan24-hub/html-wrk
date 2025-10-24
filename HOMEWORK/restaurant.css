@@ -1,0 +1,23 @@
+.menu{
+    text-align: right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #4B0082;
+}
+.description{
+    font-style: italic;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+}
+table, td, th{
+    border: 2px solid grey;
+    /* border-radius: 20px; */
+     border-collapse:collapse ;
+     width: 60%;
+    padding: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
