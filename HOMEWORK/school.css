@@ -1,0 +1,20 @@
+.info{
+    border-radius: 20px;
+    background-color: lightgrey;
+    padding: 100px;
+    margin: 100px;
+    text-align: center;
+    
+}
+h2{
+    color: blue;
+    text-transform: uppercase;
+    font-weight: bold;
+    totter-spacing: 2px;
+}
+.notice{
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
