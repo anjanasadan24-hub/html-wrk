@@ -1,3 +1,8 @@
+body{
+    background-color: aqua;
+
+
+}
 .company{
     
     padding: 200px;
@@ -5,10 +10,10 @@
     border-radius: 100px;
     background-color: #a7a0a0;
     text-align: left;
+    postion:fixed
 }
 h1{
     color: green;
-    position: fixed;
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 2px;
@@ -20,13 +25,16 @@ h1{
     font-weight: normal;
     text-align: right;
     position top: 10px;
-    margin-top: 15px;
+    /* margin-top: 15px; */
 }
+    .details p{
+        text-align: right;
+    }
+
 img{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 50%;
+    /* margin-left: 100px; */
+    /* margin-right: 100px    */
    float: left; 
 }
 .company p{
